@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a6/70/91/a67091c003173f3cd58801f345392dde.gif">
 
-- 🔭 I’m currently working on **Sudoku-Solver Chrome Extension**
+- 🔭 I’m currently working on **Bibliography Sorter**
 
 - 🌱 I’m currently learning **JavaScript, Django , Node.js , Python**
 
