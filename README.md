@@ -1,5 +1,3 @@
-![MasterHead]
-
 <h1 align="center">Hi, I'm Samuel Mathew 👋</h1>
 <h3 align="center">A passionate Computer Scientist Studying at University Of Waterloo</h3>
 
